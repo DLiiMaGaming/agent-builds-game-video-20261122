@@ -1,0 +1,1 @@
+Build a tiny browser game in one HTML file: NEON BREAKOUT — a glowing paddle, a bouncing ball, 5 rows of neon bricks, score, 3 lives, a start screen, arrow-key + mouse control, a particle burst when a brick breaks, and a win/lose screen. Canvas only, no libraries.
